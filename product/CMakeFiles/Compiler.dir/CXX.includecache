@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Charles/ClionProjects/Compiler/src/LexicalAnalyser.cpp
+LexicalAnalyser.h
+/Users/Charles/ClionProjects/Compiler/src/LexicalAnalyser.h
+string.h
+-
+stdio.h
+-
+iostream
+-
+vector
+-
+fstream
+-
+iostream
+-
+ctype.h
+-
+
+/Users/Charles/ClionProjects/Compiler/src/LexicalAnalyser.h
+iostream
+-
+vector
+-
+
+/Users/Charles/ClionProjects/Compiler/src/SyntaxAnaylyser.h
+
+/Users/Charles/ClionProjects/Compiler/src/main.cpp
+iostream
+-
+LexicalAnalyser.h
+/Users/Charles/ClionProjects/Compiler/src/LexicalAnalyser.h
+SyntaxAnaylyser.h
+/Users/Charles/ClionProjects/Compiler/src/SyntaxAnaylyser.h
+stack
+-
+
